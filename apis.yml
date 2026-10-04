@@ -49,7 +49,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Fintech
-- Financial-Services
+- Financial Services
 - Lending
 - Electric Vehicles
 - Clean Mobility
@@ -64,6 +64,7 @@ tags_raw:
 - Clean Mobility
 - Sustainability
 - India
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
